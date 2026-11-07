@@ -23,7 +23,7 @@ plt.xlabel("Prix au m² (€)")
 plt.ylabel("Nombre de ventes")
 plt.legend()
 plt.tight_layout()
-plt.savefig("graphiques/01_distribution_prix_m2.png", dpi=150)
+plt.savefig("01_distribution_prix_m2.png", dpi=150)
 plt.close()
 
 # Graphique 2 : appartements vs maisons
@@ -34,7 +34,7 @@ plt.title("Prix au m² : appartements vs maisons (Nantes, janv.-sept. 2025)")
 plt.xlabel("")
 plt.ylabel("Prix au m² (€)")
 plt.tight_layout()
-plt.savefig("graphiques/02_boxplot_maison_appartement.png", dpi=150)
+plt.savefig("02_boxplot_maison_appartement.png", dpi=150)
 plt.close()
 
 print("Graphiques enregistrés dans le dossier graphiques/")
