@@ -62,7 +62,7 @@ Le marché nantais apparaît **stable** sur les neuf premiers mois de 2025, auto
 - `analyse.py` : statistiques et analyses
 - `visualisations.py` : graphiques
 - `cartographie.py` : cartes
-- `graphiques/` : images produites
+- fichiers .png : graphiques produits
 - `DVF_Nantes_2025.csv` : données brutes
 - `DVF_Nantes_2025_propre.csv` : données nettoyées
 
