@@ -50,11 +50,11 @@ Le marché nantais apparaît **stable** sur les neuf premiers mois de 2025, auto
 
 ## Visualisations
 
-![Distribution des prix au m²](graphiques/01_distribution_prix_m2.png)
-![Maisons vs appartements](graphiques/02_boxplot_maison_appartement.png)
-![Évolution mensuelle](graphiques/03_evolution_mensuelle.png)
-![Carte des ventes](graphiques/04_carte_ventes.png)
-![Prix médian par zone](graphiques/05_carte_prix_median.png)
+![Distribution des prix au m²](01_distribution_prix_m2.png)
+![Maisons vs appartements](02_boxplot_maison_appartement.png)
+![Évolution mensuelle](03_evolution_mensuelle.png)
+![Carte des ventes](04_carte_ventes.png)
+![Prix médian par zone](05_carte_prix_median.png)
 
 ## Structure du projet
 
