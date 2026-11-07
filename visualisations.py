@@ -38,6 +38,7 @@ plt.savefig("graphiques/02_boxplot_maison_appartement.png", dpi=150)
 plt.close()
 
 print("Graphiques enregistrés dans le dossier graphiques/")
+
 # Graphique 3 : évolution mensuelle du prix médian au m²
 df["date_mutation"] = pd.to_datetime(df["date_mutation"])
 df["mois"] = df["date_mutation"].dt.to_period("M").dt.to_timestamp()
